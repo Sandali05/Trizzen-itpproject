@@ -1,6 +1,6 @@
-3.	AMARADASA V N N 	IT22169426	071 9284533	it22169426@my.sliit.lk
-4.	Dulmin P.D.K.	                IT22178268	078 4312659	it22178268@my.sliit.lk
-5.	Herath H.M.A.M.	                IT22296214	077 5219172	it22296214@my.sliit.lk
-6.	Karunarathna A.S.S.        	IT22218780	070 5945163	it22218780@my.sliit.lk
-7.	Jeewanthi K.H.		IT22171924	074 2770846	it22171924@my.sliit.lk
-8.	Arachchige S.S.J.		IT22285706	076 8673698	it22285706@my.sliit.lk
+3.	AMARADASA V N N 	      IT22169426	071 9284533	it22169426@my.sliit.lk
+4.	Dulmin P.D.K.	          IT22178268	078 4312659	it22178268@my.sliit.lk
+5.	Herath H.M.A.M.	        IT22296214	077 5219172	it22296214@my.sliit.lk
+6.	Karunarathna A.S.S.    	IT22218780	070 5945163	it22218780@my.sliit.lk
+7.	Jeewanthi K.H.		      IT22171924	074 2770846	it22171924@my.sliit.lk
+8.	Arachchige S.S.J.		    IT22285706	076 8673698	it22285706@my.sliit.lk
