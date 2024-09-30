@@ -400,7 +400,7 @@ const OrdersScreen = () => {
             Save
             </Button>
             <Button variant="contained" color="inherit" onClick={handleClose}>
-              Cancel
+            Cancel
             </Button>
           </Box>
         </Box>
