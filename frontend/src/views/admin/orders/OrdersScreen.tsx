@@ -167,7 +167,7 @@ const OrdersScreen = () => {
           }}
         >
           <Button variant="contained" color="primary" onClick={handleOpen}>
-            Add Order
+         
           </Button>
           <TextField
             label="Search orders"
