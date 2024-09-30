@@ -235,7 +235,7 @@ const FeedbackScreen = () => {
           <TableHead>
             <TableRow>
               <TableCell>Name</TableCell>
-              <TableCell>Email</TableCell>
+              <TableCell>EMAIL</TableCell>
               <TableCell>Rating</TableCell>
               <TableCell>Date</TableCell>
               <TableCell>Comment</TableCell>
