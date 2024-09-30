@@ -40,7 +40,7 @@ const Login: React.FC = () => {
           <form onSubmit={handleSubmit}>
             <div className="mb-4">
               <label className="block text-gray-500 text-sm font-bold mb-2" htmlFor="email">
-                EMAIL
+                Email
               </label>
               <input
                 type="email"
