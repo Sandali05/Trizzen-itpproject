@@ -268,6 +268,7 @@ const DeliveryScreen = () => {
               <TableCell>Vehicle No</TableCell>
               <TableCell>Category</TableCell>
               <TableCell>Order Status</TableCell>
+  
             </TableRow>
           </TableHead>
           <TableBody>
