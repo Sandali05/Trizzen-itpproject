@@ -347,10 +347,10 @@ const SupplierScreen = () => {
             }}
           >
             <Button variant="contained" color="primary" onClick={handleSave}>
-              SAVE
+              Save
             </Button>
             <Button variant="contained" color="inherit" onClick={handleClose}>
-              CANCEL
+              Cancel
             </Button>
           </Box>
         </Box>
