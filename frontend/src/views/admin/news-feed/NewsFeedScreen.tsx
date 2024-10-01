@@ -289,10 +289,10 @@ const NewsFeedScreen = () => {
             }}
           >
             <Button variant="contained" color="primary" onClick={handleSave}>
-              Save
+              SAVE
             </Button>
             <Button variant="contained" color="inherit" onClick={handleClose}>
-              Cancel
+              CANCEL
             </Button>
           </Box>
         </Box>
